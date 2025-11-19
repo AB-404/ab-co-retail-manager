@@ -1,2 +1,2 @@
-# ab-co-retail-manager
+# AB Co Retail Manager
 A retail management system
